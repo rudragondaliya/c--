@@ -70,10 +70,42 @@ int main(){
     // cout<<x<<endl;
 
 
+// modulus operator (%)
+    
+    // int x = 8;
+    // int y = 31;
+    // cout<<x%y;
 
+// typecasting.
+
+//   int x;
+//   cin>>x;
+//   float y = (float)x;
+//   cout<<y/2;
   
 
+//   char data type.
+
+//    char ch ;
+//    cin>>ch;
+//   cout<<ch;
+
+
+//    char ch ;
+//    cin>>ch;
+//    int x = (int)x;
+//   cout<<ch; //char to int
+
+//    int x;
+//    cin>>x;
+//    char ch = (char)x;
+//   cout<<ch;
+
+// int a = 7/22*(3.14+2)*3/5;
+// cout<<a; 
     
+    float c = 5/2;
+    cout<<c;
    
     return 0;
 }
