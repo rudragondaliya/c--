@@ -1,1 +1,2 @@
-students = students/2;
+ //  x++;
+    // cout<<x<<endl;
